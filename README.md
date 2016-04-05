@@ -111,6 +111,8 @@ K, you are now no longer a scrub. Here's a basic workflow.
 And honestly, this is good enough. There's a ton more you can do with git, but that's the basic idea. If you stop
 reading here, you are good to go. If you want to learn more, keep reading.
 
+---
+
 ## "Uh oh I messed up"
 
 So git comes with a couple helpful tools to see what went wrong. Let's go over these.
@@ -247,7 +249,7 @@ git merge upstream/master
 
 [Github has a page on this too.](https://help.github.com/articles/syncing-a-fork/)
 
-## Remotes
+## Remotes (for the curious/ambitious)
 
 Remember that command above where I typed `git remote add origin <url>`? Let's dissect that a little.
 
@@ -264,3 +266,15 @@ git remote -d origin
 ```
 
 Will delete the remote called `origin`.
+
+# Git for Non-Scrubs
+
+I bet you disagree with me on almost every point, and yeah, I deserve some of that. I don't use git the way Linus
+Torvalds uses git. I don't use git the way that you probably use git. I take some shortcuts, and my commit messages
+aren't always little special snowflakes. But you know what? It's good enough. This let's me use the basics without
+~~any~~much of the cruft.
+
+Feel free to make issues on here if you really really can't stand the way I've written this.
+
+I'll just be happy if I never have to do backups with directories again (like I was forced to for a certain job which
+will not be named).
