@@ -42,7 +42,7 @@ This is terrible. This is the solution for git scrubs. Don't be a git scrub.
   defined.
 * A fork is a copy of someone else's repository that you can edit.
 * A pull request is a happy little message asking someone to incorporate your code into theirs.
-* A branch is basically a fork of your code that lives in the same repository. (we'll go over this later)
+* A branch is basically a fork of your code that lives in the same repository.
 
 ## The Basics
 
@@ -111,7 +111,7 @@ K, you are now no longer a scrub. Here's a basic workflow.
 
 ![Solution](https://imgs.xkcd.com/comics/git.png)
 
-## Let's get Fancy
+## Branches: Let's get Fancy
 
 Now that you've impressed your friends with your git skillz, time to up the ante. Let's talk about Branches.
 
@@ -157,3 +157,12 @@ git push -u origin master
 
 This will take the current state of the `hurricanes` branch and overwrite the `master` branch with its contents. Lastly,
 it will upload your new master branch to github.
+
+## Pull Requests: More Fancy
+
+So let's say that your term paper is super awesome, and your friend wants to help you with it (our metaphor is
+breaking). They can "fork" (read: copy) your repository, make a bunch of changes with their version, and then submit a
+pull request through github. You'll get a nice little message saying something like "Please let me add this to your code
+it fixes everything" and you can accept the changes, reject the changes, or ask them for some more work on it for it to
+be approved. Once you click accept, all the work they've done will merge with your code in the exact same way branches
+merge.
