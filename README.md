@@ -267,6 +267,17 @@ git remote -d origin
 
 Will delete the remote called `origin`.
 
+## Commit Messages
+
+There are a ton of thoughts/blogs on writing good commit messages. Mine are short, and try to cover the basics.
+Sometimes I just use something like `"backup hopefully fixing everything"`, which is admittedly bad, but whatever works
+for you is good.
+
+That being said, if you're working on a big open source project, you better hope your commit messages are up to their
+standards.
+
+[Check here for more discussion on crafting the perfect commit message.](http://bfy.tw/57E8)
+
 # Git for Non-Scrubs
 
 I bet you disagree with me on almost every point, and yeah, I deserve some of that. I don't use git the way Linus
