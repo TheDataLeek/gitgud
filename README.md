@@ -108,6 +108,9 @@ K, you are now no longer a scrub. Here's a basic workflow.
 
 (This is actually my workflow for 90% of my projects on github)
 
+And honestly, this is good enough. There's a ton more you can do with git, but that's the basic idea. If you stop
+reading here, you are good to go. If you want to learn more, keep reading.
+
 ## "Uh oh I messed up"
 
 So git comes with a couple helpful tools to see what went wrong. Let's go over these.
