@@ -116,6 +116,7 @@ reading here, you are good to go. If you want to learn more, keep reading.
 3. [Tracking Files](./filetracking.md)
 4. [Collaboration](./collab.md)
 5. [Git GUI](./gui.md)
+6. [Rebasing](./rebase.md)
 
 # Git for Non-Scrubs
 
