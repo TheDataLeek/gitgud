@@ -111,12 +111,13 @@ K, you are now no longer a scrub. Here's a basic workflow.
 And honestly, this is good enough. There's a ton more you can do with git, but that's the basic idea. If you stop
 reading here, you are good to go. If you want to learn more, keep reading.
 
-1. ["Uh oh I messed up"](./uhoh.md)
-2. [Branches](./branches.md)
-3. [Tracking Files](./filetracking.md)
-4. [Collaboration](./collab.md)
-5. [Git GUI](./gui.md)
+1. [Git GUI](./gui.md)
+2. [Collaboration](./collab.md)
+3. ["Uh oh I messed up"](./uhoh.md)
+4. [Branches](./branches.md)
+5. [Tracking Files](./filetracking.md)
 6. [Rebasing](./rebase.md)
+7. [Git Branching Model](http://nvie.com/posts/a-successful-git-branching-model/)
 
 # Git for Non-Scrubs
 

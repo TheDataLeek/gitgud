@@ -44,3 +44,18 @@ git push -u origin master
 
 This will take the current state of the `hurricanes` branch and overwrite the `master` branch with its contents. Lastly,
 it will upload your new master branch to github.
+
+## Alternate Syntax
+
+If you want to create a branch from a different branch than the one you're currently residing in, use the following
+syntax.
+
+```bash
+git checkout -b $NEWBRANCHNAME $OLDBRANCHNAME
+```
+
+## No Fast Forward
+
+If you've created a branch from master, made some changes, and are merging it back with master, you can add the
+`--no-ff` flag to merge to prevent the `HEAD` pointer from just fast-forwarding (moving the pointer) and instead keep
+the fact that the branch was created.
