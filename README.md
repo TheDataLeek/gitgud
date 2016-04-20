@@ -117,7 +117,8 @@ reading here, you are good to go. If you want to learn more, keep reading.
 4. [Branches](./branches.md)
 5. [Tracking Files](./filetracking.md)
 6. [Rebasing](./rebase.md)
-7. [Git Branching Model](http://nvie.com/posts/a-successful-git-branching-model/)
+7. [Assorted Tips](http://www.alexkras.com/19-git-tips-for-everyday-use/)
+8. [Git Branching Model](http://nvie.com/posts/a-successful-git-branching-model/)
 
 # Git for Non-Scrubs
 
