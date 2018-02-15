@@ -31,15 +31,15 @@ $ git log -n 2
 On branch master
 commit 75627a80f802eb8072c1f49ef4c501137379c5c1
 Merge: 372a040 a97361f
-Author: Will F <willzfarmer@gmail.com>
+Author: Zoe F <zoe@dataleek.io>
 Date:   Tue Apr 5 16:27:00 2016 -0600
 
-    Merge pull request #8 from willzfarmer/pullrequests
+    Merge pull request #8 from thedataleek/pullrequests
     
     Added section on PR
 
 commit a97361f4e2a091e512958cc3b89acf6f4b873881
-Author: William Farmer <willzfarmer@gmail.com>
+Author: Zoe Farmer <zoe@dataleek.io>
 Date:   Tue Apr 5 16:26:03 2016 -0600
 
     Added section on PR

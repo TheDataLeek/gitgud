@@ -85,7 +85,7 @@ new repository. (I'm not gonna guide you through this part. Google it.)
 Once you have your repository, we can "push" (read: upload) our code to it.
 
 ```bash
-git remote add origin https://github.com/willzfarmer/termpaper
+git remote add origin https://github.com/thedataleek/termpaper
 git push -u origin master
 ```
 
